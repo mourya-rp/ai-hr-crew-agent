@@ -11,3 +11,5 @@ A privacy-first, local AI system that evaluates resumes against job descriptions
 - **Privacy-First:** Entirely local execution; no data leaves the machine.
 - **Hardware Optimized:** Leverages Apple M4 GPU acceleration for similarity math.
 - **Structured Logic:** Uses a Senior Technical Screener and HR Manager to provide deterministic scoring.
+
+- ![Project Dashboard](images/output-sample.png)
