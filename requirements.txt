@@ -1,0 +1,9 @@
+crewai
+ollama
+sentence-transformers
+pypdfium2
+pandas
+torch
+pydantic
+litellm
+tabulate
